@@ -1,3 +1,3 @@
-# Primary heading?
+# Primary heading
 ## Secondary heading
 ### Tertiary heading
